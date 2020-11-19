@@ -77,6 +77,10 @@ body {
   box-sizing: border-box;
 }
 
+.question-container {
+  margin: -120px 0 0 48px;
+}
+
 .row {
   display: flex;
 }
@@ -86,7 +90,7 @@ body {
   padding: 50px;
   height: 85px; 
   position: bottom;
-  margin: 50 0 0 50
+  margin: -15 0 0 50
 }
 .row1 {
   display: flex;
@@ -97,7 +101,7 @@ body {
   padding: 50px;
   height: 20px; 
   position: bottom;
- margin: 50 0 0 50
+ margin: -15 0 0 50
 }
 .row2 {
   display: flex;
